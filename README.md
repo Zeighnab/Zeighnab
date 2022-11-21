@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @Zeighnab
-- 👀 I’m currently learning: Cloud DevOps
-- 💞️ I’m looking to collaborate on interesting projects...
-
-<!---
-Zeighnab/Zeighnab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ### ☁️ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 <hr>
 <h1>I am Zainab Olaniyan</h1>
@@ -23,7 +14,7 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Metric_Dashboard-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-VanillaJS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+<!--![](https://img.shields.io/badge/Code-VanillaJS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)-->
 ![](https://img.shields.io/badge/Hub-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Reverse_Proxy/Web_Server-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
