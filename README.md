@@ -42,7 +42,7 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 ## 🤝 Let's connect
 
 <p align="center">
-  <!--<a href="https://twitter.com/micah_shallom"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> -->
+  <a href="https://twitter.com/Iam_Laitan"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/zainab-olaniyan-233568b8"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
   <a href="mailto:olaniyanzainab@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
 </p>
@@ -53,6 +53,6 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zeighnab&bg_color=0D1117)  
 
-![GitHub metrics](https://metrics.lecoq.io/Zeighnab)  
+![GitHub metrics](https://metrics.lecoq.io/Zeighnab?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Africa%2FLagos)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Zeighnab&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
