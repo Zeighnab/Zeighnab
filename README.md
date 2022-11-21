@@ -1,6 +1,6 @@
 ### ☁️ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 <hr>
-<h1>I am Zainab Olaniyan</h1>
+<h1>I'm Zainab Olaniyan</h1>
 I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, Infrastructure Automation.
 
 - 🌱 I’m currently learning: Jenkins
@@ -14,7 +14,6 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Metric_Dashboard-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-<!--![](https://img.shields.io/badge/Code-VanillaJS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)-->
 ![](https://img.shields.io/badge/Hub-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Reverse_Proxy/Web_Server-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
