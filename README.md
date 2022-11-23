@@ -5,7 +5,7 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 
 - 🌱 I’m currently learning: Jenkins
 - 👯 I’m looking to collaborate on: DevOps and Cloud Engineering.
-- 😊 Pronouns: he/him
+- 😊 Pronouns: She/her
 <!-- - ⚡ Fun fact: I love music 🎧🎧 like crazy. Favourite genres are pop, indie and folk -->
 
 ## 🔧Technologies and Tools
